@@ -24,7 +24,7 @@
 
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
       <h1 class="display-5">Web Hacking</h1>
-      <p class="lead">Pentest 실습 게시판</p>
+      <p class="lead">web Server</p>
     </div>
 
     <div class="container">
