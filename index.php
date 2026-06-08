@@ -19,7 +19,7 @@
 
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
       <span data-feather="list"></span>&nbsp;&nbsp;
-      <h5 class="my-0 mr-md-auto font-weight-normal">CREHACKTIVE SIMPLE BOARD</h5>
+      <h5 class="my-0 mr-md-auto font-weight-normal">RORORS'S SIMPLE BOARD</h5>
     </div>
 
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
